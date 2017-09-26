@@ -1,6 +1,6 @@
 Administration des systèmes sous Linux
 
-Introduction
+INTRO
 
 Système d’exploitation multi-tâches
 créé aux États-Unis au début des années 1970
